@@ -1,1 +1,2 @@
-# Algorithms1
+# Algorithms
+Printing the in-degree and out-degree
