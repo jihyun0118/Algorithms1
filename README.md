@@ -1,2 +1,2 @@
-# Algorithms
-Printing the in-degree and out-degree
+# Algorithms Concepts
+
